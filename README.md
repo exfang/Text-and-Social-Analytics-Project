@@ -67,11 +67,11 @@ Since 5 topics has the highest coherence score of 0.3972, I decided to go into d
 
 Looking at the individual topic and their terms, the topics are not very clear. These are the topics I assume it to be:
 
-Topic 0: Rude Service
-Topic 1: Themes
-Topic 2: Costs
-Topic 3: War
-Topic 4: Customer Recommendation
+- Topic 0: Rude Service
+- Topic 1: Themes
+- Topic 2: Costs
+- Topic 3: War
+- Topic 4: Customer Recommendation
 
 From these identified topics, DisneyLand could consider reviewing their staff's attitude and approach to managing their customers. By identifying and correcting the way staffs manage their customers, DisneyLand could potentially improve their customer's experience and satisfaction level, leading to higher chances of custome rrecommendations.
 
