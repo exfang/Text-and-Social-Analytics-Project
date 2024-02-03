@@ -12,7 +12,7 @@ This project is done mainly on Jupyter notebooks. There are HTML files attached 
 
 ## Data
 
-The data used is customer reviews of Disneyland America. is scraped from multiple websites.
+The data is customer reviews of Disneyland America. The data is scraped from multiple websites:
 - Google Reviews
 - YELP
 - Trivago
