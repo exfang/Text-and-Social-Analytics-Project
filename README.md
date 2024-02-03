@@ -20,7 +20,7 @@ The data is customer reviews of Disneyland America. The data is scraped from mul
 ## Navigating the repository
 
 - Data Scraping Notebook: ITBW51_212579B_DataScraping.ipynb
-- Data Merging Notebook: DataMerging.ipynb
+- Data Merging Notebook (Of team members' scraped data): DataMerging.ipynb
 - Data Preparation (Cleaning) Notebook: ITBW51_212579B_DataPreparation_V2.ipynb
 - Text Sentiment Classification: ITBW51_212579B_TextClassification.ipynb
 - Text Topic Modelling: ITBW51_212579B_TopicModelling.ipynb
